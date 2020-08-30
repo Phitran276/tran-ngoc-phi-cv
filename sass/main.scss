@@ -1,0 +1,37 @@
+@import "base/base";
+
+
+@import "abstract/functions";
+@import "abstract/mixins";
+@import "abstract/variable";
+
+
+@import "base/animation";
+@import "base/typography";
+
+@import "base/utilities";
+
+
+@import "pages/home";
+
+@import "components/button";
+@import "components/card";
+@import "components/compositions";
+@import "components/feature-box";
+@import "components/story";
+
+@import "layout/grid";
+@import "layout/header";
+/*
+
+COLORS:
+
+Light green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485
+
+*/
+
+
+
+
